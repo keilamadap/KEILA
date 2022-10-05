@@ -1,8 +1,8 @@
 <h2>Hello there! 👋</h2>  
-My name is Keila Amada and I'm a front-end web developer 😊 <br>
-I have a bachelor degree in Science and Technology that gave me many gifts along the way, including an Education exchange experience living abroad in the United States for eighteen months. I started my journey by studying HTML and CSS in order to perfect my initial programming skills, but it was only after I studied JavaScript that I could find myself in React ❤️ 
-In my spare time I like to practice my coding skills and learn from all the different advices and tips my dev friends share with me, I am also a 90's gamer kid at heart who's currently (and forever) in love with old videogames and chess 🤓 <br>
+Me chamo Keila Amada e atualmente estou me especializando para me tornar uma desenvolvedora frontend 😊<br> 
+A tecnologia sempre fez parte da minha vida, quando tinha 12 anos me lembro de adorar editar arquivos HTML e CSS para atualizar meu blog, mas somente depois de me formar em Ciências e Tecnologia pela UFRN que decidi retomar essa antiga paixão. O resultado não foi outro, me apaixonei novamente e hoje busco aperfeiçoar meus conhecimentos afim de integrar todos os aspectos da minha vida a programação. Minhas principais habilidades são a criação e réplica de templates, formulários e animações utilizando HTML e CSS, tenho uma base de conhecimentos em Javascript que me permite aplicar conceitos de requisição de API e dados JSON utilizando como principal ferramenta o React ❤️. Nos últimos anos trabalhei com atendimento ao cliente, mas espero um dia poder alinhar minha experiência profissional com meus atuais sonhos.  <br>
 <br>
-👨‍💻 <b>Fav Technologies:</b> HTML, CSS, Javascript and React.<br>
-🌱 <b>I'm currently learning:</b> Styled-components & Typescript. 
+👨‍💻 <b>Tecnologias mais utilizadas:</b> HTML, CSS, Javascript and React.<br>
+🌱 <b>No momento estou estudando:</b> Styled-components & Typescript. 
+
 
