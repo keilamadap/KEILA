@@ -1,8 +1,7 @@
 <h2>Hello there! 👋</h2>  
-Me chamo Keila Amada e atualmente estou me especializando para me tornar uma desenvolvedora frontend 😊<br> 
-A tecnologia sempre fez parte da minha vida, quando tinha 12 anos me lembro de adorar editar arquivos HTML e CSS para atualizar meu blog, mas somente depois de me formar em Ciências e Tecnologia pela UFRN que decidi retomar essa antiga paixão. O resultado não foi outro, me apaixonei novamente e hoje busco aperfeiçoar meus conhecimentos afim de integrar todos os aspectos da minha vida a programação. Minhas principais habilidades são a criação e réplica de templates, formulários e animações utilizando HTML e CSS, tenho uma base de conhecimentos em Javascript que me permite aplicar conceitos de requisição de API e dados JSON utilizando como principal ferramenta o React ❤️. Nos últimos anos trabalhei com atendimento ao cliente, mas espero um dia poder alinhar minha experiência profissional com meus atuais sonhos.  <br>
+Sonhadora e curiosa, me chamo <b>Keila Amada</b> e há meses estou me especializando na área de T.I. 
+Tenho experiência com atendimento ao cliente prestando suporte técnico, mas depois de me graduar em Ciências e Tecnologia pela UFRN decidi me dedicar totalmente a programação. Hoje tenho habilidades com HTML, CSS (Sass & Styled-components), JavaScript e tenho React como tecnologia principal, tenho feito projetos aplicando conceitos de LocalStorage, API Rest, componetização, rotas e Context API. Meu principal objetivo profissional é me tornar uma desenvolvedora Full-Stack. <br>
 <br>
 👨‍💻 <b>Tecnologias mais utilizadas:</b> HTML, CSS, Javascript e React.<br>
 🌱 <b>No momento estou estudando:</b> Styled-components & Typescript. 
-
 
