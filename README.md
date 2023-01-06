@@ -1,10 +1,16 @@
-Olá! 👋<br>
-Sou Desenvolvedora Frontend atualmente trabalhando na Esmenezes, no nosso dia-a-dia desenvolvemos e mantemos plataformas online de acordo com a necessidade dos nossos clientes.
+Hello there! 👋<br>
+I am a Frontend Web Developer currently working at Esmenezes. 
 <br>
 
-----
+🌱 I’m currently React Testing Library and Jest
 
-👨‍💻 <b>Tecnologias mais utilizadas:</b> HTML, CSS (Styled-components, SASS), Javascript, React e TypeScript.<br>
+----
+:brazil: 
+
+Olá! 👋<br>
+Sou uma desenvolvedora FrontEnd atualmente trabalhando na Esmenezes. 
+
+🌱 Atualmente estou aprendendo React Testing Library e Jest
 
 
 <div style="display: inline-block"><br>
@@ -21,3 +27,6 @@ Sou Desenvolvedora Frontend atualmente trabalhando na Esmenezes, no nosso dia-a-
 </div><br>
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keilamadap&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keilamadap&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
