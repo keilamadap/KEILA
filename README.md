@@ -2,7 +2,7 @@ Hello there! 👋<br>
 I am a Frontend Web Developer currently working at Esmenezes. 
 <br>
 
-🌱 I’m currently React Testing Library and Jest
+🌱 I’m currently learning C# and .NET
 
 ----
 :brazil: 
@@ -10,7 +10,7 @@ I am a Frontend Web Developer currently working at Esmenezes.
 Olá! 👋<br>
 Sou uma desenvolvedora FrontEnd atualmente trabalhando na Esmenezes. 
 
-🌱 Atualmente estou aprendendo React Testing Library e Jest
+🌱 Atualmente estou aprendendo C# e .NET
 
 
 <div style="display: inline-block"><br>
