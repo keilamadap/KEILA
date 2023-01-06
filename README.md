@@ -4,7 +4,7 @@ Sou Desenvolvedora Frontend atualmente trabalhando na Esmenezes, no nosso dia-a-
 
 ----
 
-👨‍💻 <b>Tecnologias mais utilizadas:</b> HTML, CSS (Styled-components), Javascript, React e TypeScript.<br>
+👨‍💻 <b>Tecnologias mais utilizadas:</b> HTML, CSS (Styled-components, SASS), Javascript, React e TypeScript.<br>
 
 
 <div style="display: inline-block"><br>
