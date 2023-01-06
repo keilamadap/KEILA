@@ -1,5 +1,5 @@
 Olá! 👋<br>
-Sou Desenvolvedora Frontend atualmente trabalhando na Esmenezes, no nosso dia-a-dia desenvolvemos e mantemos plataformas online para suprir a necessidade dos nossos clientes.
+Sou Desenvolvedora Frontend atualmente trabalhando na Esmenezes, no nosso dia-a-dia desenvolvemos e mantemos plataformas online de acordo com a necessidade dos nossos clientes.
 <br>
 
 ----
