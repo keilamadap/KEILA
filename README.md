@@ -1,16 +1,13 @@
 Hello there! 👋<br>
-I am a Frontend Web Developer currently working at Esmenezes. 
+My name is Keila and I am a Frontend Web Developer currently working at Esmenezes. 
 <br>
-
-🌱 I’m currently learning Typescript and PHP
 
 ----
 :brazil: 
 
 Olá! 👋<br>
-Sou uma desenvolvedora FrontEnd atualmente trabalhando na Esmenezes. 
+Meu nome é Keila e sou desenvolvedora Frontend atualmente trabalhando na Esmenezes. 
 
-🌱 Atualmente estou aprendendo Typescript e PHP
 
 
 <div style="display: inline-block"><br>
