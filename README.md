@@ -21,9 +21,9 @@ Meu nome é Keila e sou desenvolvedora Frontend atualmente trabalhando na Esmene
   <img align="center" alt="SASS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
     &nbsp;-&nbsp;
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-</div><br>
-
+</div><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keilamadap&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keilamadap&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
