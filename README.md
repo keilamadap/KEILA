@@ -1,12 +1,12 @@
-Hello there! 👋<br>
-My name is Keila and I am a Frontend Web Developer currently working at Esmenezes. 
+Hello there!👋 It's nice to meet ya :)<br>
+My name is Keila and I am a Frontend Web Developer currently working at Esmenezes. 💜
 <br>
 
 ----
 :brazil: 
 
-Olá! 👋<br>
-Meu nome é Keila e sou desenvolvedora Frontend atualmente trabalhando na Esmenezes. 
+Olá! 👋 Prazer em conhecê-lx :)<br>
+Meu nome é Keila e sou desenvolvedora Frontend atualmente trabalhando na Esmenezes. 💜
 
 
 
