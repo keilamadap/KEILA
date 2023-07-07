@@ -5,7 +5,7 @@ My name is Keila and I am a Frontend Web Developer currently working at Esmeneze
 ----
 :brazil: 
 
-Olá! 👋 Prazer em conhecê-lx :)<br>
+Olá! 👋 Prazer em conhecê-lo :)<br>
 Meu nome é Keila e sou desenvolvedora Frontend atualmente trabalhando na Esmenezes. 💜
 
 
