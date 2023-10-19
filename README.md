@@ -1,12 +1,8 @@
-Hello there!👋 It's nice to meet ya :)<br>
-My name is Keila and I am a Frontend Web Developer 💜
-<br>
 
-----
 :brazil: 
 
 Olá! 👋 Prazer em conhecê-lo :)<br>
-Meu nome é Keila e sou desenvolvedora Frontend 💜
+Sou dev Frontend apaixonada pela criação de aplicativos web responsivos e interativos. 💜
 
 
 
