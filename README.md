@@ -2,7 +2,7 @@
 :brazil: 
 
 Olá! 👋 Prazer em conhecê-lo :)<br>
-Sou dev Frontend apaixonada pela criação de aplicativos web responsivos e interativos. 💜
+Frontend apaixonada pela criação de aplicativos web responsivos e interativos. 💜
 
 
 
