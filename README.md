@@ -2,7 +2,11 @@
 :brazil: 
 
 Olá! 👋 Prazer em conhecê-lo :)<br>
-Frontend apaixonada pela criação de aplicativos web responsivos e interativos. 💜
+
+
+Desenvolvedora Frontend, com experiência em projetos para clientes nacionais, onde atuei no aprimoramento de seus sistemas internos. Iniciando no desenvolvimento em 2022, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia. 
+Possuo foco em desenvolvimento com Javascript, TypeScript, React, NextJS, Styled-Componentes dentre outras tecnologias e bibliotecas que uso para criar aplicações web de alto nível e valor. 
+Sou uma profissional positiva, focada, perseverante e sempre em busca de desenvolver minhas habilidades constantemente enquanto aprendo coisas novas.
 
 
 
@@ -17,6 +21,7 @@ Frontend apaixonada pela criação de aplicativos web responsivos e interativos.
   <img align="center" alt="SASS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
     &nbsp;-&nbsp;
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest.svg">
 </div><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keilamadap&theme=dark)](https://git.io/streak-stats)
