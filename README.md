@@ -4,10 +4,9 @@
 Olá! 👋
 
 
-Desenvolvedora Frontend, com experiência em projetos para clientes nacionais, onde atuei no aprimoramento de seus sistemas internos. <br />
-Iniciando no desenvolvimento em 2022, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado adquirido dia após dia.  <br />
-Possuo foco no desenvolvimento Javascript, TypeScript, React, NextJS e em testes utilizando React Testing Library e Jest. 
-Sou uma profissional positiva, focada, perseverante e sempre em busca de desenvolver minhas habilidades constantemente enquanto aprendo coisas novas.
+Desenvolvedora Frontend com experiência em projetos para clientes nacionais, especializada no aprimoramento de sistemas internos e na melhoria contínua dos processos de negócio. 
+Possuo foco no desenvolvimento web utilizando JavaScript, TypeScript, React.js e NextJS. 
+Para garantir a qualidade, manutenção e escalabilidade do código faço uso de testes unitários com React Testing Library e Jest, e gosto de me aventurar na criação de documentações técnicas utilizando ferramentas como Writerside da JetBrains para documentar regras de negócio e funcionalidades essenciais do sistema.
 
 
 
